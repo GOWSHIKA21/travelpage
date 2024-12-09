@@ -1,0 +1,53 @@
+*{
+    background-image: url("flight.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: ghostwhite;
+    font-size: 25px;
+}
+body{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    font-size: 30px;
+    padding: 5px;
+    color: rgb(248, 246, 249);
+}
+.start{
+    width: 40%;
+    border-radius: 10px;
+}
+.con{
+    background-image: none;
+    background-color: palevioletred
+}
+.con label{
+    padding: 5px;
+    margin: 10px;
+    background-image: none;
+    background-color:black;
+}
+.con input{
+    padding: 5px;
+    margin: 15px;
+    background-image: none;
+    margin: 3px;
+    background-color: wheat;
+}
+button {
+    padding: 10px;
+    margin: 5px;
+    margin-left: 80px;
+    background-image: none;
+    background-color: #55c059;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #078d0e;
+}
+
+

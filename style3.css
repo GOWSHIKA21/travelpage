@@ -1,0 +1,17 @@
+*{
+    background-image: url("back.jpg");
+    font-size: 30px;
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    background-image: none;
+}
+.sec{
+    display: grid;
+    grid-template-columns: repeat(4,0.1fr);
+}
+.sec img:hover{
+    height: 300px;
+    width: 300px;
+}

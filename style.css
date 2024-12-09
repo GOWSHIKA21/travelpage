@@ -1,0 +1,74 @@
+*{
+  background-image: url("pariss.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  color: aliceblue;
+  font-size: 20px;
+}
+.link{
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-image: none;
+  padding: 8px;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+a:hover{
+  color: blue;
+  font-size: 25px;
+}
+.in2{
+  color: darkblue;
+  background-image: none;
+  background-color: darkgrey;
+  float: right;
+  padding: 7px;
+  border-style: dotted;
+  border-radius: 5px;
+  margin-right: 10px;
+  margin-left: 50px;
+}
+.in2:hover{
+  background-color: rgb(84, 84, 182);
+  color: azure;
+}
+.in1{
+  padding: 3px;
+  margin-right: 50px;
+  background-image: none;
+  background-color: aliceblue;
+  border-radius: 5px;
+  text-align: left;
+  float: right;
+  color: black;
+}
+.main{
+  background-image: none;
+}
+.main h3{
+  font-size: 80px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
+  margin-bottom: 2px;
+  background-image: none;
+}
+.main p{
+  font-size: 30px;
+  padding: 10px;
+  background-image: none;
+}
+.butt{
+  font-size: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  background-image: none;
+  background-color: darkolivegreen;
+  text-decoration: none;
+}
+.butt:hover{
+  background-color: darkmagenta;
+  font-size: 35px;
+}
+
+
