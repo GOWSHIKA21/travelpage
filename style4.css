@@ -10,7 +10,7 @@
     margin: 50px;
     float: left;
     border: 5px solid black;
-    background-image: linear-gradient(rgb(155, 80, 246), rgb(114, 238, 114));
+    background-image: linear-gradient(rgb(155, 80, 246), rgb(238, 114, 228));
     border-radius: 10px;
 }
 .query h2{
